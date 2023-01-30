@@ -67,3 +67,4 @@ cd exoskeleton_control
 chmod 755 setup.sh
 ./setup.sh
 ```
+- When the setup is finished, the exoskeleton is ready to use. 
