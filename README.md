@@ -53,7 +53,7 @@ This is a small guide on how to run the configurator program and how to set up t
   - When starting up PuTTY, write *username@hostname.local* in the Host Name input field.
   - With a default Raspberry Pi the default hostname is: *pi@raspberrypi.local*
 - Install git on the Pi with the commands 
-'''
+```
 sudo apt-get update
 sudo apt-get install git
-'''
+```
