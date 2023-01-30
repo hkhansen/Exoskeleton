@@ -57,3 +57,4 @@ This is a small guide on how to run the configurator program and how to set up t
 sudo apt-get update
 sudo apt-get install git
 ```
+- Clone the
