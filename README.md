@@ -52,16 +52,16 @@ This is a small guide on how to run the configurator program and how to set up t
   - For Windows users a terminal program like [PuTTY](https://www.putty.org/) is useful.
   - When starting up PuTTY, write *username@hostname.local* in the Host Name input field.
   - With a default Raspberry Pi the default hostname is: *pi@raspberrypi.local*
-- Install git on the Pi with the commands (or move them unto the Pi with a USB drive. Comes in a later update)
+- Install git on the Pi with the commands (or move them unto the Pi with a USB drive. Comes in a later update):
 ```sh
 sudo apt-get update
 sudo apt-get install git
 ```
-- Clone the control software files from their independt repository
+- Clone the control software files from the independt repository:
 ```sh
 git clone https://github.com/hkhansen/exoskeleton_control.git
 ```
-- Move to the control software directory, make the setup shell-script executable and run the script.
+- Move to the control software directory, make the setup shell-script executable and run the script:
 ```sh
 cd exoskeleton_control
 chmod 755 setup.sh
