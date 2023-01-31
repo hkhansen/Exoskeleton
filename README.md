@@ -3,7 +3,7 @@ In this repository, the files for creating a user-specific upper-limp exoskeleto
 ## Structure
 - The *Configurator* folder contains all files used for the configurator, including a compressed file containing the executable program.
 - The *SolidWorks files* folder contains the 3D models of all iterations of the exoskeleton.
-- The *Control software* is in its own [repository](https://github.com/hkhansen/exoskeleton_control), as GitHub will not show repository folders within exoisiting repositories.
+- The *Control software* is in its own [repository](https://github.com/hkhansen/exoskeleton_control), as GitHub will not show repository folders within exisiting repositories.
 
 
 ## Bill of components for Exoskeleton Mk3
