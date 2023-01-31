@@ -4,7 +4,7 @@ In this repository, the files for creating a user-specific upper-limp exoskeleto
 - The *Configurator* folder contains all files used for the configurator, including a compressed file containing the executable program.
 - The *Control software* folder contains the Python scripts for running the exoskeleton on a Raspberry Pi.
 - The *SolidWorks files* folder contains the 3D models of all iterations of the exoskeleton.
-- The *STL files* folder contains all STL files for printing the exoskeleton. These parts are adapted to me and will therefore not fit everybody.
+
 
 ## Bill of components for Exoskeleton Mk3
 To create the exoskeleotn, the following parts are needed.
